@@ -3,8 +3,8 @@
 => This project focuses on classifying news articles as either reliable or unreliable using a dataset with titles, authors, and text content. Key steps include:
 
 1. Dataset Overview:
-  -> train.csv contains news articles labeled as reliable (0) or unreliable (1).
-  -> test.csv lacks the label, used for testing.
+- train.csv contains news articles labeled as reliable (0) or unreliable (1).
+- test.csv lacks the label, used for testing.
 
 2. Data Preprocessing:
 - Missing values filled with empty strings.
